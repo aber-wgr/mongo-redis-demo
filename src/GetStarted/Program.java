@@ -15,8 +15,8 @@ import redis.clients.jedis.JedisShardInfo;
 import java.util.*;
 
 /**
- * Simple application that shows how to use Azure Cosmos DB for MongoDB API in a Java application.
- *
+ * Simple application that shows how to use Azure Cosmos DB for MongoDB API and Azure Redis Cache via Jedis,
+ * in a Java application.
  */
 public class Program {
 
